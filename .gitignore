@@ -1,2 +1,4 @@
+#ignore html files
 *.html
+#ignore jar files
 *.jar
